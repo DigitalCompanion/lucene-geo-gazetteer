@@ -6,7 +6,7 @@
 	<version>0.3-SNAPSHOT</version>
 	<properties>
 		<tomcat.version>8.0.28</tomcat.version>
-		<cxf.version>2.2.3</cxf.version>
+		<cxf.version>2.6.11</cxf.version>
 	</properties>
 	<name>Geonames Gazetteer using Lucene</name>
 	<description>An implementation of a geonames.org-based Gazetteer using Apache Lucene.</description>
